@@ -1,0 +1,25 @@
+# Core dependencies
+python-dotenv==1.0.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Logging
+loguru==0.7.2
+ftfy==6.1.3
+
+# NOW I AM ADDING THE REQUIREMENTS OF THE MODULE 2(TEXT EXTRACTOR FRO THE FILE)
+PyPDF2==3.0.1
+pdfplumber==0.10.3
+python-docx==1.1.0
+# ===== MODULE 3: OCR Engine =====
+pytesseract==0.3.10
+Pillow==10.1.0
+opencv-python==4.8.1.78
+numpy==1.24.3
+
+# MODULE 4: Language Detection
+langdetect==1.0.9
